@@ -1,2 +1,2 @@
 # WebD-project
-First year WebDev project.
+ Yet to be written properly.
